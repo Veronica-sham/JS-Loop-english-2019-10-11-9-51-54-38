@@ -1,4 +1,4 @@
-## requirement 
+﻿## requirement 
     
 Create a new index.js file and write a loop in any way to achieve the following requirements: from 0 to 20, determine whether the number is odd or even, and output. The output is as follows:
 
@@ -10,3 +10,6 @@ Create a new index.js file and write a loop in any way to achieve the following 
 19 is odd number.
 20 is even number.
 ```
+
+
+
